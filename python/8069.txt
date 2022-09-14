@@ -1,3 +1,0 @@
-Banco: 2000 eur
-Nome da conta: Rick
-Numero da conta: 8069
